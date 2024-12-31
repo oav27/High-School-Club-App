@@ -2,7 +2,7 @@
 Club App I created for my high school club in 2021!
 
 ## Why I Created The App
-It was the beginning of the pandemic and I was working virtually with my high school club and the Webmaster and Editor officer. During my time in this position,
+It was the beginning of the pandemic and I was working virtually with my high school club. During this time, I was the Webmaster and Editor officer. During my time in this position,
 I realized that many of the members of the club needed a hub to recieve relevant and up to date information. Thus, an app! As I was just a sophomore in high school,
 I wasn't sure how to go about creating an app, and with what resources. So I did some researching and got to working. 
 
