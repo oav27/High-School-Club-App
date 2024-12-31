@@ -20,7 +20,7 @@ I fondly remember sharing this app with friends before it was fully launched in 
 
 I have graduated from high school and therefore do not maintain the operations and functionality of the app anymore. However, I did teach the officers after me how to maintain and update it. 
 
-**What you see now, is what the current officers of the club have maintained, however, the design and general functions of the app are what I created!**
+### What you see now, is what the current officers of the club have maintained, however, the design and general functions of the app are what I created!
 
 
 ## See The App!
